@@ -1,0 +1,4 @@
+﻿  2048_final_project.cpp
+D:\Files\My Code\2048_final_project\2048_final_project\2048_final_project.cpp(222,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Files\My Code\2048_final_project\2048_final_project\2048_final_project.cpp(275,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  2048_final_project.vcxproj -> D:\Files\My Code\2048_final_project\Debug\2048_final_project.exe
